@@ -15,7 +15,7 @@ This app was built with:
 
 ## Demo
 
-![demo](https://github.com/ricardocanelas/reactnd-project-readable/screen_capture.gif)
+![demo](https://github.com/ricardocanelas/reactnd-project-readable/blob/master/screen_capture.gif)
 
 Try it from here: https://rcanelas-reactnd-readable.firebaseapp.com
 
