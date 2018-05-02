@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100%;
+}
+
+#root,
+.app {
+    padding: 0;
+    height: 100%;
+}
+
+form .error-message{
+    font-size: 11px;
+    padding: 4px;
+    color: indianred;
+}
+
+.ui.dimmer {
+    position: fixed !important;
+}
+
+.pull-left{
+    float: left;
+}
+
+.pull-right{
+    float: right;
+}
