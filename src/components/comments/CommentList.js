@@ -34,7 +34,7 @@ const CommentList = (props) => {
     return (
         <WrapperComments>
             <Container>
-                <h3>Comments</h3>
+                <h3>Comments <small>(total: { comments.length })</ small></h3>
                 {comments.length > 0 ? renderItems() : "Be the first to write a comment"}
 
                 <hr className="divider" />
