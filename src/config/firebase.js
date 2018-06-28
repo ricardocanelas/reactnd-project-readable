@@ -1,13 +1,12 @@
 import * as firebase from 'firebase'
-// import 'firebase/storage' // if you will use 'storage
 
 const DB_CONFIG = {
-    apiKey: "AIzaSyDk7z1chFKeSDUY-LF6TmiSxaQN3O5O6ug",
-    authDomain: "react-redux-firebase-c6eb2.firebaseapp.com",
-    databaseURL: "https://react-redux-firebase-c6eb2.firebaseio.com",
-    projectId: "react-redux-firebase-c6eb2",
-    storageBucket: "react-redux-firebase-c6eb2.appspot.com",
-    messagingSenderId: "615808479501",
+    apiKey: "<your-apiKEY>",
+    authDomain: "<your-authDomain>",
+    databaseURL: "<your-databaseURL>",
+    projectId: "<your-projectId>",
+    storageBucket: "<your-storageBucket>",
+    messagingSenderId: "<your-messagingSenderId>",
 }
 
 const app = firebase.initializeApp(DB_CONFIG)
