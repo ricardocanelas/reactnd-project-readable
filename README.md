@@ -1,3 +1,5 @@
+[![REACT nanodegree](https://img.shields.io/badge/udacity-REACTND-02b3e4.svg?style=flat)](https://www.udacity.com/course/react-nanodegree--nd019)
+
 "Readable" is an app that you can manager posts, for Udacity’s React Nanodegree second project assignment, "Readable". Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Also, users will also be able to edit and delete posts and comments.
 
 This app was built with:
